@@ -1,0 +1,7 @@
+{
+  "name": "untitled-app",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A blank native view starter project.",
+  "main": "src/App.tsx"
+}
